@@ -3,10 +3,10 @@
 
 （jsp前端+java后端+mysql数据库（数据库增删改查））
 
-![Image text]([https://github.com/jisooma/books_management_system/tree/main/images/function.jpg)
-![Image text](https://github.com/jisooma/books_management_system/tree/main/images/ER.jpg)
+![Image text](https://github.com/jisooma/books_management_system/blob/main/images/functions.png)
+![Image text](https://github.com/jisooma/books_management_system/blob/main/images/ER.png)
 
 ## 部分界面
-![Image text](https://github.com/jisooma/books_management_system/images/images1.jpg)
-![Image text](https://github.com/jisooma/books_management_system/images/images2.jpg)
-![Image text](https://github.com/jisooma/books_management_system/images/images3.jpg)
+![Image text](https://github.com/jisooma/books_management_system/blob/main/images/images1.jpg)
+![Image text](https://github.com/jisooma/books_management_system/blob/main/images/images2.jpg)
+![Image text](https://github.com/jisooma/books_management_system/blob/main/images/images3.jpg)
