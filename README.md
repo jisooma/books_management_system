@@ -7,6 +7,6 @@
 ![Image text](https://github.com/jisooma/books_management_system/blob/main/images/ER.png)
 
 ## 部分界面
-![Image text](https://github.com/jisooma/books_management_system/blob/main/images/image1.jpg)
-![Image text](https://github.com/jisooma/books_management_system/blob/main/images/image2.jpg)
-![Image text](https://github.com/jisooma/books_management_system/blob/main/images/image3.jpg)
+![Image text](https://github.com/jisooma/books_management_system/blob/main/images/image1.png)
+![Image text](https://github.com/jisooma/books_management_system/blob/main/images/image2.png)
+![Image text](https://github.com/jisooma/books_management_system/blob/main/images/image3.png)
